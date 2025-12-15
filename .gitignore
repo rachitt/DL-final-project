@@ -6,4 +6,3 @@ kaggle.json
 
 # Model checkpoints / adapters
 *.safetensors
-llama_3.1_8b_*/
